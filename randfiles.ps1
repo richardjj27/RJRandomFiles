@@ -1,7 +1,7 @@
 # Provide Folder name and create
 # Test update
 # another edit.
-# xxx
+# xxx ccc
 
 $Folder=’C:\Users\richardjoh\Documents\Projects\hashmove\testfolder’
 
