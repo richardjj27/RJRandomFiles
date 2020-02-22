@@ -1,5 +1,4 @@
 # A function to create a number of random content files with a random name and predefined size.
-# Made it a function and added some options
 
 function new-testfolders {
     param([string]$target,[int]$filesize,[int]$num_files)
