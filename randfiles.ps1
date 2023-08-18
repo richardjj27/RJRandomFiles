@@ -1,6 +1,6 @@
 # A function to create a number of random content files with a random name and predefined size.
 
-function new-testfolders {
+function New-RJTestFolders {
     param([string]$target,[int]$filesize,[int]$num_files)
     # New-Item -ItemType Directory -Path $Folder
     $filesize = $filesize * 1048576
